@@ -1,9 +1,9 @@
-var n = parseInt(Math.random() * 10);
+var n = parseInt(Math.random() * 100);
 var t = 3;
 
 while (t > 0) {
   
-  var k = parseInt(prompt("Digite um Número entre 0 e 10"));
+  var k = parseInt(prompt("Digite um Número entre 0 e 100"));
 
 
   if (n == k) {
