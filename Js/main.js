@@ -5,7 +5,6 @@ while (t > 0) {
   
   var k = parseInt(prompt("Digite um Número entre 0 e 99"));
 
-
   if (n == k) {
     Swal.fire(
     'Parabéns!',
